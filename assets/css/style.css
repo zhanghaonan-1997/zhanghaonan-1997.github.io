@@ -306,7 +306,7 @@ line-height: 50px;
 #clients {
   color: #fff;
   background-color:#b40f02;
-  background: url('../img/cover/car.jpg') left -80px no-repeat;
+  /* background: url('../img/cover/car.jpg') left -80px no-repeat; */
 }
 #testimonials .item { margin-bottom: 30px }
 #testimonials .quote {
